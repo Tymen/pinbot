@@ -2,10 +2,10 @@
   "name": "discord-reaction-role-bot",
   "version": "1.0.0",
   "description": "This is a free open source easy to use Discord reaction role bot.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon main.js"
+    "start": "nodemon index.js"
   },
   "author": "Folded Lettuce",
   "url": "https://github.com/FoldedLettuce/Discord-Reaction-Role-Bot",
