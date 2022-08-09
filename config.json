@@ -1,0 +1,246 @@
+﻿{
+  "channel": "993917199502811146",
+  "resident": "996471063187828756", 
+  "unverified": "996472739277840514",
+  "everyone": "993841335939383367",
+
+  "Roles": {
+
+    "ResidentRole": {
+      "roleId": "996471481896812585",
+      "roleName": "Resident",
+      "roleEmote": "<:resident:996497837783257190>",
+      "roleEmoteId": "996497837783257190"
+    },
+    "MainRole": {
+      "roleId": "993915518979420201",
+      "roleName": "Resident",
+      "roleEmote": "<:main:994979489144651946>",
+      "roleEmoteId": "994979489144651946"
+    },
+    "ConversationsRole": {
+      "roleId": "994955270042165268",
+      "roleName": "Conversations",
+      "roleEmote": "<:conversation:1000717622465265775>",
+      "roleEmoteId": "1000717622465265775"
+    },
+    "ActivitiesRole": {
+      "roleId": "994955429400555541",
+      "roleName": "Activities",
+      "roleEmote": "<:activities:994986956100477048>",
+      "roleEmoteId": "994986956100477048"
+    },
+    "ValorantRole": {
+      "roleId": "994955607511683072",
+      "roleName": "Valorant",
+      "roleEmote": "<:valorant:995010902678044794>",
+      "roleEmoteId": "995010902678044794"
+    },
+    "AgentBrimstoneRole": {
+      "roleId": "994953577695031296",
+      "roleName": "Brimstone",
+      "roleEmote": "<:brimstone:994944097863348364>",
+      "roleEmoteId": "994944097863348364"
+    },
+    "AgentPhoenixRole": {
+      "roleId": "994953722868281404",
+      "roleName": "Phoenix",
+      "roleEmote": "<:phoenix:994944173125939280>",
+      "roleEmoteId": "994944173125939280"
+    },
+    "AgentSageRole": {
+      "roleId": "994954008043196437",
+      "roleName": "Sage",
+      "roleEmote": "<:sage:994944252029177938>",
+      "roleEmoteId": "994944252029177938"
+    },
+    "AgentSovaRole": {
+      "roleId": "994954042260344893",
+      "roleName": "Sova",
+      "roleEmote": "<:sova:994944309256265768>",
+      "roleEmoteId": "994944309256265768"
+    },
+    "AgentViperRole": {
+      "roleId": "994954068281806929",
+      "roleName": "Viper",
+      "roleEmote": "<:viper:994944378839781428>",
+      "roleEmoteId": "994944378839781428"
+    },
+    "AgentCypherRole": {
+      "roleId": "994954097952292975",
+      "roleName": "Cypher",
+      "roleEmote": "<:cypher:994944443335581769>",
+      "roleEmoteId": "994944443335581769"
+    },
+    "AgentReynaRole": {
+      "roleId": "994954136380510289",
+      "roleName": "Reyna",
+      "roleEmote": "<:reyna:994944505134448670>",
+      "roleEmoteId": "994944505134448670"
+    },
+    "AgentKilljoyRole": {
+      "roleId": "994954180169052201",
+      "roleName": "Killjoy",
+      "roleEmote": "<:killjoy:994944557626179685>",
+      "roleEmoteId": "994944557626179685"
+    },
+    "AgentBreachRole": {
+      "roleId": "994954220228845618",
+      "roleName": "Breach",
+      "roleEmote": "<:breach:994944618934308964>",
+      "roleEmoteId": "994944618934308964"
+    },
+    "AgentOmenRole": {
+      "roleId": "994954254190133340",
+      "roleName": "Omen",
+      "roleEmote": "<:omen:994944697015488592>",
+      "roleEmoteId": "994944697015488592"
+    },
+    "AgentJettRole": {
+      "roleId": "994954301053096017",
+      "roleName": "Jett",
+      "roleEmote": "<:jett:994944745690370048>",
+      "roleEmoteId": "994944745690370048"
+    },
+    "AgentRazeRole": {
+      "roleId": "994954325040300113",
+      "roleName": "Raze",
+      "roleEmote": "<:raze:994944788182868098>",
+      "roleEmoteId": "994944788182868098"
+    },
+    "AgentSkyeRole": {
+      "roleId": "994954367943847958",
+      "roleName": "Skye",
+      "roleEmote": "<:skye:994944828523679795>",
+      "roleEmoteId": "994944828523679795"
+    },
+    "AgentYoruRole": {
+      "roleId": "994954403138252821",
+      "roleName": "Yoru",
+      "roleEmote": "<:yoru:994944869128753214>",
+      "roleEmoteId": "994944869128753214"
+    },
+    "AgentAstraRole": {
+      "roleId": "994954442392743986",
+      "roleName": "Astra",
+      "roleEmote": "<:astra:994944990008586331>",
+      "roleEmoteId": "994944990008586331"
+    },
+    "AgentKayORole": {
+      "roleId": "994954473384448151",
+      "roleName": "KayO",
+      "roleEmote": "<:kayo:994945028248055830>",
+      "roleEmoteId": "994945028248055830"
+    },
+    "AgentChamberRole": {
+      "roleId": "994954508075544656",
+      "roleName": "Chamber",
+      "roleEmote": "<:chamber:994945084187484190>",
+      "roleEmoteId": "994945084187484190"
+    },
+    "AgentNeonRole": {
+      "roleId": "994954551813734491",
+      "roleName": "Neon",
+      "roleEmote": "<:neon:994945126650630164>",
+      "roleEmoteId": "994945126650630164"
+    },
+    "AgentFadeRole": {
+      "roleId": "994954581605875802",
+      "roleName": "Fade",
+      "roleEmote": "<:fade:994945183730901103>",
+      "roleEmoteId": "994945183730901103"
+    },
+    "AgentIronRole": {
+      "roleId": "994954634277965824",
+      "roleName": "Iron",
+      "roleEmote": "<:iron:994945420507762758>",
+      "roleEmoteId": "994945420507762758"
+    },
+    "AgentBronzeRole": {
+      "roleId": "994954662337847446",
+      "roleName": "Bronze",
+      "roleEmote": "<:bronze:994945458738839562>",
+      "roleEmoteId": "994945458738839562"
+    },
+    "AgentSilverRole": {
+      "roleId": "994954697721008249",
+      "roleName": "Silver",
+      "roleEmote": "<:silver:994945535687536710>",
+      "roleEmoteId": "994945535687536710"
+    },
+    "AgentGoldRole": {
+      "roleId": "994954752049823744",
+      "roleName": "Gold",
+      "roleEmote": "<:gold:994945571817279662>",
+      "roleEmoteId": "99494557181727966"
+    },
+    "AgentPlatinumRole": {
+      "roleId": "994954790922637342",
+      "roleName": "Platinum",
+      "roleEmote": "<:platinum:994945613407989822>",
+      "roleEmoteId": "994945613407989822"
+    },
+    "AgentDiamondRole": {
+      "roleId": "994954855787536385",
+      "roleName": "Diamond",
+      "roleEmote": "<:diamond:994945697562501160>",
+      "roleEmoteId": "994945697562501160"
+    },
+    "AgentAscendantRole": {
+      "roleId": "994954895134310400",
+      "roleName": "Ascendan",
+      "roleEmote": "<:ascendant:994945938579787806>",
+      "roleEmoteId": "994945938579787806"
+    },
+    "AgentImmortalRole": {
+      "roleId": "994955054643691601",
+      "roleName": "Immortal",
+      "roleEmote": "<:immortal:994945992849895574>",
+      "roleEmoteId": "994945992849895574"
+    },
+    "AgentRadiantRole": {
+      "roleId": "994955112634126346",
+      "roleName": "Radiant",
+      "roleEmote": "<:radiant:994946027981385758>",
+      "roleEmoteId": "994946027981385758"
+    },
+    "EURole": {
+      "roleId": "994976409028141076",
+      "roleName": "EU",
+      "roleEmote": "<:eu:995023420469293126>",
+      "roleEmoteId": "995023420469293126"
+    },
+    "NARole": {
+      "roleId": "994976458051174501",
+      "roleName": "NA",
+      "roleEmote": "<:na:995023488144375898>",
+      "roleEmoteId": "995023488144375898"
+    },
+    "SAMRole": {
+      "roleId": "995025320283488277",
+      "roleName": "",
+      "roleEmote": "<:sam:995024493019934771>",
+      "roleEmoteId": "995024493019934771"
+    },
+    "ASRole": {
+      "roleId": "994976481241477161",
+      "roleName": "AS",
+      "roleEmote": "<:as:995023541256851486>",
+      "roleEmoteId": "995023541256851486"
+    },
+    "AURole": {
+      "roleId": "994976544709677157",
+      "roleName": "AU",
+      "roleEmote": "<:au:995023596147703808>",
+      "roleEmoteId": "995023596147703808"
+    },
+    "AFRole": {
+      "roleId": "994977452575174817",
+      "roleName": "AF",
+      "roleEmote": "<:af:995024383225634897>",
+      "roleEmoteId": "995024383225634897"
+    }
+  },
+  
+ "botToken": "OTk0OTAzNjM2NzYzMjM0Mzg3.GBLI2e.-1PHSrTg6rO2rVVckAeqNwIF9eVYAMof20G5SE" 
+}
