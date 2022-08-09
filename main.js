@@ -8,9 +8,9 @@ const fs = require('fs');
 
 client.commands = new Discord.Collection();
 
-
+// Module imports
+require('dotenv').config();
 const { Roles } = require('./config.json');
-const { botToken } = require('./config.json');
 const { channel } = require('./config.json');
 const { resident } = require('./config.json');
 const { unverified } = require('./config.json');
@@ -335,4 +335,4 @@ client.on('messageReactionRemove', async (reaction, user) => {
 ); //to here
 
 
-client.login(`${botToken}`);
+client.login(process.env.TOKEN);
